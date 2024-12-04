@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Card component with monster details 1`] = `
+<div>
+  <div
+    class="card-container"
+  >
+    <img
+      alt="monster"
+      src="https://robohash.org/1?set=set2&size=180x180"
+    />
+    <h2>
+       
+      Monster One
+       
+    </h2>
+    <p>
+      monster1@example.com
+    </p>
+  </div>
+</div>
+`;

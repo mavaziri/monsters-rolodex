@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Card List component with monsters details 1`] = `
+<div>
+  <div
+    class="card-list"
+  >
+    <div
+      class="card-container"
+    >
+      <img
+        alt="monster"
+        src="https://robohash.org/1?set=set2&size=180x180"
+      />
+      <h2>
+         
+        Monster One
+         
+      </h2>
+      <p>
+        monster1@example.com
+      </p>
+    </div>
+    <div
+      class="card-container"
+    >
+      <img
+        alt="monster"
+        src="https://robohash.org/2?set=set2&size=180x180"
+      />
+      <h2>
+         
+        Monster Two
+         
+      </h2>
+      <p>
+        monster2@example.com
+      </p>
+    </div>
+    <div
+      class="card-container"
+    >
+      <img
+        alt="monster"
+        src="https://robohash.org/3?set=set2&size=180x180"
+      />
+      <h2>
+         
+        Monster Three
+         
+      </h2>
+      <p>
+        monster3@example.com
+      </p>
+    </div>
+  </div>
+</div>
+`;

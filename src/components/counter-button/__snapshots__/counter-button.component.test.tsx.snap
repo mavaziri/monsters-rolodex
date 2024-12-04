@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterButton Component expect to render CounterButton component 1`] = `
+<div>
+  <div>
+    <p>
+      Count: 
+      0
+    </p>
+    <button>
+      Increment
+    </button>
+  </div>
+</div>
+`;
+
+exports[`expect to render CounterButton component 1`] = `
+<div>
+  <div>
+    <p>
+      Count: 
+      0
+    </p>
+    <button>
+      Increment
+    </button>
+  </div>
+</div>
+`;
