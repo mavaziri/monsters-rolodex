@@ -33,9 +33,9 @@ const App = () => {
     },
   });
 
-  if (error) {
-    console.error('Error fetching data:', error.message);
-  }
+  // if (error) {
+  //   console.log('Error fetching data:', error.message);
+  // }
 
   useEffect(() => {
     if (monsters) {
